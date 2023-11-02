@@ -742,6 +742,6 @@ void login_page(){
 }
 
 int main(){
-    cout << "Welcome to *MINESWEEPER* " << endl;
+    cout << "Welcome to **MINESWEEPER** " << endl;
     login_page ();
 }
